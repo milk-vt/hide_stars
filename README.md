@@ -14,6 +14,12 @@
 
 どのユーザースクリプトマネージャーを使用できるかは、使用するブラウザによって異なります。
 
+既に導入済の場合は
+
+[こちら](https://raw.githubusercontent.com/milk-vt/hide_stars/main/hide_stars.user.js)からインストールできます
+
+導入していない場合は下記を参考にインストールしてください
+
 ## デスクトップ
 * Firefox - [Tampermonkey](https://addons.mozilla.org/firefox/addon/tampermonkey/) or [Greasemonkey](https://addons.mozilla.org/firefox/addon/greasemonkey/)
 * Chrome - [Tampermonkey](https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo) or [Violentmonkey](https://chrome.google.com/webstore/detail/violent-monkey/jinjaccalgkegednnccohejagnlnfdag)
