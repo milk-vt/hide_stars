@@ -11,7 +11,7 @@
 // ==/UserScript==
 
 (function() {
-    const blackList = ['花咲みやび','鏡見キラ','奏手イヅル','アルラン','律可','アステル','岸堂天真','夕刻ロベル','影山シエン','荒咬オウガ','ホロスタ','緋崎ガンマ','水無世燐央','羽継烏有','夜十神封魔','Altare','Dezmond','Syrios','Vesper','HOLOSTARS EN','Bettel','Hakka','Shinri','Flayon','Jurard','Goldbullet','Octavio','Crimzon'];
+    const blackList = ['花咲みやび','奏手イヅル','アルラン','律可','アステル','岸堂天真','夕刻ロベル','影山シエン','荒咬オウガ','ホロスタ','緋崎ガンマ','水無世燐央','羽継烏有','夜十神封魔','Altare','Syrios','HOLOSTARS EN','Bettel','Hakka','Shinri','Flayon','Jurard','Goldbullet','Octavio','Crimzon'];
 
     // Official schedule
     if (location.host === "schedule.hololive.tv") {
